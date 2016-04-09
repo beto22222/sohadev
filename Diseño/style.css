@@ -1,0 +1,30 @@
+body{
+	margin: 0px;
+}
+header{
+	background: #323f59;
+	height: 40px;
+	padding: 10px 0px 0px 10px;
+	margin: 0px;
+}
+header img{
+	width: 50%;
+}
+.encabesado{
+	padding: 5px 0px 0px 5px;
+	background: #1c88b9;
+	height: 30px;
+}
+.encabesado p{
+	margin: 0px;
+	font-size: 20px;
+	color:#fffaf6;
+	font-family:Gadugi Regular,Arial;
+	font-style: italic;
+}
+.organizador{
+	font-size: 16px;
+	margin: 5px 10px 0px 0px;
+	display: flex;
+	justify-content: flex-end;
+}
